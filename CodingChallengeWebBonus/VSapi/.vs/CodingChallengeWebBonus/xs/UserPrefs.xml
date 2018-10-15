@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C69DEA17-B1F9-4018-AE7F-0D256AFD7E85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/EventsController.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="30" Column="16" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/EventsController.cs" Line="15" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CodingChallengeWebBonus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

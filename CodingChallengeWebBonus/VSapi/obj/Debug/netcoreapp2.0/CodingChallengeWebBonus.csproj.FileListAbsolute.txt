@@ -1,0 +1,21 @@
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.deps.json
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.runtimeconfig.json
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.runtimeconfig.dev.json
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.dll
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.pdb
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.csproj.CoreCompileInputs.cache
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.AssemblyInfoInputs.cache
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.AssemblyInfo.cs
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.dll
+/Users/mannypasquale/Desktop/Reliable Challenge/CodingChallengeWebBonus/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.pdb
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.deps.json
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.runtimeconfig.json
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.runtimeconfig.dev.json
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.dll
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/bin/Debug/netcoreapp2.0/CodingChallengeWebBonus.pdb
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.csprojAssemblyReference.cache
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.csproj.CoreCompileInputs.cache
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.AssemblyInfoInputs.cache
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.AssemblyInfo.cs
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.dll
+/Users/mannypasquale/Desktop/ReliableChallenge/CodingChallengeWebBonus/VSapi/obj/Debug/netcoreapp2.0/CodingChallengeWebBonus.pdb
